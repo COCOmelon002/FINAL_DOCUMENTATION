@@ -16,3 +16,26 @@
 **Backend** - **Python Flask**
 **Database** - **MySQL**
 
+## Project Structure
+ |  admin_dashboard.html     	
+   	| admin_list_report.html
+    |  admin_record.html  
+    | all_reports.html
+    | attendance.html
+	| check.html
+	| created_report.html
+	| home.html
+	| landing.html
+	| list_report.html
+	| logs.html
+	| monitor.html
+	|  profile.html
+	| register.html
+	| report.html
+	|test.attendance.html
+	|view_report.html
+/—-backend-
+	| main.py
+
+## Local development
+NGROK - for  free Hosting
